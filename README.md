@@ -1,2 +1,2 @@
 # SSTI-javaencoder
-SSTI Java Encoder
+SSTI Java Encoder written in python. 
